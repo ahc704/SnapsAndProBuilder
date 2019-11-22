@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/SNAP Office Room.unity
+- path: Assets/Final Project Brainstorming Ideas.unity
   isLoaded: 1
   isActive: 1
